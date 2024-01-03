@@ -1,5 +1,5 @@
 ---
-type: design-philosophy
+type: design-tenet
 cover:
 title: Maximal Resilience
 ---
@@ -7,3 +7,4 @@ title: Maximal Resilience
 - Failure tolerant
 - Continuity of power
 - Flexible
+- Safe
