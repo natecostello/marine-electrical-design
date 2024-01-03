@@ -1,5 +1,5 @@
 ---
-type: design-philosophy
+type: design-tenet
 cover:
 title: Maximal Charge Rate
 ---
@@ -11,6 +11,7 @@ title: Maximal Charge Rate
   - 👉️ less fuel consumption
 
 - Higher engine load
+
   - 👉️ less glazing, fouling, maintenance,
   - 👉️ greater longevity
   - 👉️ greater watt-hours per fuel consumed

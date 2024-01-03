@@ -1,5 +1,5 @@
 ---
-type: design-philosophy
+type: design-tenet
 cover:
 title: Maximal Simplicity
 ---
